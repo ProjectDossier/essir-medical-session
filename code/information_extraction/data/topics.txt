@@ -1,0 +1,253 @@
+<topics>
+	<topic>
+		<id>1</id>
+		<query> What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?
+		</query>
+	</topic>
+	<topic>
+		<id>8</id>
+		<query> best apps daily activity exercise diabetes
+		</query>
+	</topic>
+	<topic>
+		<id>22</id>
+		<query> my risk for developing type 2 diabetes
+		</query>
+	</topic>
+	<topic>
+		<id>35</id>
+		<query> Is a ketogenic / keto diet suitable for people with diabetes?
+		</query>
+	</topic>
+	<topic>
+		<id>45</id>
+		<query> Can diabetes be cured?
+		</query>
+	</topic>
+	<topic>
+		<id>51</id>
+		<query> What is holistic medicine and what does it include?
+		</query>
+	</topic>
+	<topic>
+		<id>52</id>
+		<query> What are the most common mental health problems? How can I prevent or manage the most common mental health problems?
+		</query>
+	</topic>
+	<topic>
+		<id>53</id>
+		<query> what is psychotherapy?
+		</query>
+	</topic>
+	<topic>
+		<id>54</id>
+		<query> What does multiple sclerosis diagnosis include? What does it change?
+		</query>
+	</topic>
+	<topic>
+		<id>55</id>
+		<query> How to manage multiple sclerosis?
+		</query>
+	</topic>
+	<topic>
+		<id>57</id>
+		<query> multiple sclerosis stages phases
+		</query>
+	</topic>
+	<topic>
+		<id>58</id>
+		<query> Risk to develop multiple sclerosis
+		</query>
+	</topic>
+	<topic>
+		<id>59</id>
+		<query> long-term effects likelihood multiple sclerosis
+		</query>
+	</topic>
+	<topic>
+		<id>62</id>
+		<query> disclosing multiple sclerosis at work, how will colleagues react?
+		</query>
+	</topic>
+	<topic>
+		<id>63</id>
+		<query> Will multiple sclerosis affect my career?
+		</query>
+	</topic>
+	<topic>
+		<id>68</id>
+		<query> List of multiple sclerosis symptoms
+		</query>
+	</topic>
+	<topic>
+		<id>72</id>
+		<query> Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?
+		</query>
+	</topic>
+	<topic>
+		<id>77</id>
+		<query> How do menopause symptoms relate to multiple sclerosis symptoms?
+		</query>
+	</topic>
+	<topic>
+		<id>79</id>
+		<query> Can I pass multiple sclerosis to other family members?
+		</query>
+	</topic>
+	<topic>
+		<id>81</id>
+		<query> Can I work and study full-time with multiple sclerosis?
+		</query>
+	</topic>
+	<topic>
+		<id>83</id>
+		<query> Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?
+		</query>
+	</topic>
+	<topic>
+		<id>85</id>
+		<query> Relapsing remitting multiple sclerosis
+		</query>
+	</topic>
+	<topic>
+		<id>86</id>
+		<query> Secondary progressive multiple sclerosis
+		</query>
+	</topic>
+	<topic>
+		<id>92</id>
+		<query> causes of fatigue in MS
+		</query>
+	</topic>
+	<topic>
+		<id>93</id>
+		<query> Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?
+		</query>
+	</topic>
+	<topic>
+		<id>94</id>
+		<query> When will I start to feel better with multiple sclerosis?
+		</query>
+	</topic>
+	<topic>
+		<id>95</id>
+		<query> Reading problems in MS
+		</query>
+	</topic>
+	<topic>
+		<id>96</id>
+		<query> most efficient and sustainable diets
+		</query>
+	</topic>
+	<topic>
+		<id>97</id>
+		<query> benefits of physical activity
+		</query>
+	</topic>
+	<topic>
+		<id>98</id>
+		<query> most common complications in pregnancy
+		</query>
+	</topic>
+	<topic>
+		<id>101</id>
+		<query>heavy flares swelling lymph nodes</query>
+	</topic>
+	<topic>
+		<id>102</id>
+		<query>randomly gotten eczema </query>
+	</topic>
+	<topic>
+		<id>105</id>
+		<query>wisdom tooth cuts gum pain </query>
+	</topic>
+	<topic>
+		<id>107</id>
+		<query>medication adhd anxiety </query>
+		
+	</topic>
+	<topic>
+		<id>108</id>
+		<query>chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia </query>
+	</topic>
+	<topic>
+		<id>109</id>
+		<query>ehlers danlos syndrome POTS nausea stomach pain </query>
+	</topic>
+	<topic>
+		<id>112</id>
+		<query>symptoms of asthma </query>
+	</topic>
+	<topic>
+		<id>113</id>
+		<query>asthma and covid </query>
+	</topic>
+	<topic>
+		<id>114</id>
+		<query>borderline personality disorder symptoms </query>
+	</topic>
+	<topic>
+		<id>116</id>
+		<query>outcome prostate cancer </query>
+	</topic>
+	<topic>
+		<id>117</id>
+		<query>stage 4 metastatic lung cancer outcome </query>
+	</topic>
+	<topic>
+		<id>118</id>
+		<query>stage 4 triple negative breast cancer treatment </query>
+	</topic>
+	<topic>
+		<id>119</id>
+		<query>best pillow neck pain </query>
+	</topic>
+	<topic>
+		<id>121</id>
+		<query>numb fingers arthritis </query>
+	</topic>
+	<topic>
+		<id>123</id>
+		<query>hypothyroidism symptoms </query>
+	</topic>
+	<topic>
+		<id>126</id>
+		<query>birth control suppression antral follicle count </query>
+	</topic>
+	<topic>
+		<id>127</id>
+		<query>glasses for computer </query>
+	</topic>
+	<topic>
+		<id>130</id>
+		<query>neck and shoulder stretches </query>
+	</topic>
+	<topic>
+		<id>131</id>
+		<query>exercises for better posture </query>
+	</topic>
+	<topic>
+		<id>132</id>
+		<query>headpats scalp psoriasis </query>
+	</topic>
+	<topic>
+		<id>133</id>
+		<query>psoriasis psoariatic arthritis, lump in armpit </query>
+	</topic>
+	<topic>
+		<id>141</id>
+		<query>sores in mouth herpes </query>
+	</topic>
+	<topic>
+		<id>146</id>
+		<query>canker sores syphilis </query>
+	</topic>
+	<topic>
+		<id>147</id>
+		<query>best supplements creatine </query>
+	</topic>
+	<topic>
+		<id>150</id>
+		<query>fish oil supplement dosage </query>
+	</topic>
+</topics>
