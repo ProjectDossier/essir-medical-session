@@ -41,6 +41,13 @@ For a more comprehensive understanding of the task, please visit [the official T
 ## Navigating the material 
 In the "code" directory, you'll find a collection of Colab notebooks that implement various components of the workshop agenda. Each Colab notebook is paired with a corresponding presentation file, located in the "presentations" folder. This pairing ensures seamless access to both practical code implementations and their associated explanatory presentations, facilitating a comprehensive learning experience.
 
+## Organizers
 
+Georgios Peikos, PhD candiate from University of Milano-Bicocca
 
+Wojciech Kusa, PhD candidate from Tu Wien
+
+Annisa Maulida Ningtyas, PhD candidate from Tu Wien
+
+Oscar E. Mendoza, PhD candiate from University of Milano-Bicocca
 
