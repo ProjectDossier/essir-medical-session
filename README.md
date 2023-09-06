@@ -13,7 +13,7 @@ The retrieval task presented as a case study in the workshop centers around clin
 
 ## Dataset 
 The dataset for the 2022 Clinical Trials Track TREC task comprises synthetic patient cases fashioned by individuals with medical expertise. These cases are presented as synthetic admissions notes, serving as the topics for the track. These synthetic case descriptions closely mimic real-world medical scenarios and are designed to challenge participants in retrieving pertinent clinical trial information. In this task, participants will work with a corpus derived from a snapshot of ClinicalTrials.gov, collected on April 27, 2021, containing a wealth of clinical trial documents, thereby offering a realistic and comprehensive resource for information retrieval and evaluation.
-For a more comprehensive understanding of the task, please visit [The official TREC 2022 Clinical Trials Track](https://www.trec-cds.org/2022.html)
+For a more comprehensive understanding of the task, please visit [the official TREC 2022 Clinical Trials Track](https://www.trec-cds.org/2022.html).
 
 ## Workshop Agenda
 
